@@ -84,6 +84,10 @@ p {
   gap: 30px 10px;
 }
 
+.header__logo-link {
+  justify-self: start;
+}
+
 .header__logo {
   width: 200px;
 }
@@ -292,6 +296,7 @@ p {
   background-color: #2e3856;
   color: #f7bd1e;
 }
+
 .card__back {
   background-color: #f7bd1e;
   color: #2e3856;
